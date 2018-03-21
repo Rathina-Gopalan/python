@@ -1,2 +1,2 @@
-a=raw_input("Enter a string:")
+a=raw_input("")
 print a.title()
