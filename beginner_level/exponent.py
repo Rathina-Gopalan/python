@@ -1,4 +1,3 @@
-a=int(input())
-b=int(input())
-c=a**b
-print(c)
+num=int(input())
+pow=int(input())
+print(num**pow)
