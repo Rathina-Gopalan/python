@@ -11,3 +11,5 @@ for c in range(0,len(b)):
             e.append(b[c])
 e.sort()
 print(" ".join(e))
+else:
+    print("unique")
