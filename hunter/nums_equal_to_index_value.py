@@ -2,8 +2,8 @@ x=input()
 y=[]
 z=[]
 for i in range(0,x):
-    a=input()
-    y.append(a)
+    x=input()
+    y.append(x)
 for i in range(0,len(y)):
     if(i==y[i]):
         z.append(i)
